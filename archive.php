@@ -10,7 +10,7 @@
  *
  **/
 
-
+require_once (dirname(__FILE__) . '/archive.php');
 
 add_action( 'auto_archive_hook', 'auto_archive' );
 /**
