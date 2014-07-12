@@ -1,4 +1,6 @@
-archive-post-hourly
-===================
+*** Archive post hourly ***
 
-Archive a certain post using wp-schedule-event
+
+Description: <br>
+
+Archive a certain post using wp-schedule-event and custom post meta expiration.
